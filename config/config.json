@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x61346f986C34cFE1f376Bb850656DE21B24f8aA2",
+  "SCAN_LINK": "https://polygonscan.com/token/0x61346f986C34cFE1f376Bb850656DE21B24f8aA2",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "MATIC",
+    "ID": 137
+  },
+  "NFT_NAME": "DSPM",
+  "SYMBOL": "DSPM",
+  "MAX_SUPPLY": 9849,
+  "WEI_COST": 65000000000000000000,
+  "DISPLAY_COST": 65,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "OpenSea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/the-david-stone-power-movement",
+  "SHOW_BACKGROUND": true
+}
